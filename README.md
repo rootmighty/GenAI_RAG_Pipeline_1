@@ -1,4 +1,4 @@
-# GenAI_RAG_Pipeline
+# GenAI RAG Pipeline For Finance
 
 This tool helps you provide links from websites and then use Retrieval Augmented Generation to answer your questions using Large Language Models
 
